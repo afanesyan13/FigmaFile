@@ -1,0 +1,213 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav {
+    box-shadow: 0px 1px 4px 0px #00000040;
+    margin: 0 auto;
+}
+.content {
+    width: 1125px;
+    margin: 0 auto;
+}
+.section1 {
+    padding-top: 74px;
+    margin-top: 51px;
+    display: flex;
+}
+.first_div {
+    display: block;
+}
+.text1 {
+    font-family: Roboto;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 64px;
+    letter-spacing: 0em;
+    text-align: left;
+    color: #1f2e35;
+}
+.text2 {
+    display: block;
+    color: #ee4248;
+}
+.text_p {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 29px;
+    margin: 24px 0;
+
+    color: #30444e;
+}
+.text_a {
+    background: #ee4248;
+    box-shadow: 1px 2px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    padding: 12px 32px;
+    text-decoration: none;
+    color: #ffffff;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    -ms-border-radius: 4px;
+    -o-border-radius: 4px;
+}
+.section2 {
+    display: flex;
+    margin-top: 100px;
+    background: #f7f7f7;
+}
+.text_2 {
+    padding-left: 98px;
+}
+.text11 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 133.69%;
+    color: #ee4248;
+    padding: 24px 0px;
+    margin-top: 57px;
+}
+.text22 {
+    color: #1f2e35;
+}
+.text2p {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    padding-top: 24px;
+    /* or 27px */
+    color: #30444e;
+}
+.dsi {
+    color: #ee4248;
+}
+.section3 {
+    display: flex;
+    justify-content: center;
+    margin-top: 48px;
+    gap: 140px;
+    height: 459px;
+    box-sizing: border-box;
+}
+.figmrd {
+    width: 319px;
+    height: 108px;
+}
+
+.title1 {
+    margin-top: 116px;
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 32px;
+    line-height: 133.69%;
+    /* identical to box height, or 43px */
+    text-align: center;
+    color: #1f2e35;
+}
+.h2tlt {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 500;
+    font-size: 28px;
+    line-height: 133.69%;
+    /* or 37px */
+    padding: 17px 0px 15px;
+    color: #ee4248;
+}
+.p2mrd {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 150%;
+    /* or 27px */
+    margin-bottom: 20px;
+    color: #30444e;
+}
+.mrda {
+    background: #ee4248;
+    box-shadow: 1px 1px 2px rgba(0, 0, 0, 0.25);
+    border-radius: 4px;
+    text-decoration: none;
+    padding: 8px;
+    width: 87px;
+    height: 26px;
+
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 144.69%;
+    /* identical to box height, or 26px */
+    color: #ffffff;
+}
+.section4 {
+    display: flex;
+    margin-top: 87px;
+}
+.title13 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #263238;
+}
+.text13 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 149.19%;
+    /* or 27px */
+    color: #263238;
+}
+.text132 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+    color: #263238;
+}
+.text133 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 300;
+    font-size: 18px;
+    line-height: 149.19%;
+    /* or 27px */
+    color: #263238;
+    display: block;
+    padding-top: 20px;
+}
+.mrdmrd {
+    display: block;
+    padding-left: 47px;
+    padding-top: 5px;
+}
+.lojo {
+    display: flex;
+    padding: 15px;
+    justify-content: center;
+    background: #ee4248;
+    margin-top: 24px;
+}
+.lojo1 {
+    font-family: "Roboto";
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 21px;
+    /* identical to box height */
+    color: #ffffff;
+}
